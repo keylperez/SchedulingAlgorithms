@@ -30,7 +30,7 @@ conda activate SchedulingAlgosEnv
 | | |
 |---------------|----------------|
 | First In First Out  | ✅ |
-| Least Recently Used |  |
+| Least Recently Used | ✅ |
 | Optimal |  |
 
 ### IO Management Algorithms
