@@ -39,4 +39,4 @@ conda activate SchedulingAlgosEnv
 |---------------|----------------|
 | First Come First Serve | ✅ |
 | C Scan | ✅ |
-| C Look |  |
+| C Look | ✅ |
