@@ -44,30 +44,30 @@ conda activate SchedulingAlgosEnv
 ## Figures
 ### Non Preemptive Algorithms
 #### First Come First Serve
-<img src="Plot Figures/NP_FCFS.png>
+![NP_FCFS](/Plot Figures/NP_FCFS.png)
 #### Priority Non Preemptive
-<img src="Plot Figures/NP_PNP.png>
+![NP_PNP](/Plot Figures/NP_PNP.png)
 #### Shortest Job First
-<img src="Plot Figures/NP_SJF.png>
+![NP_SJF](/Plot Figures/NP_SJF.png)
 
 ### Preemptive Algorithms
 #### Priority Based Scheduling
-<img src="Plot Figures/P_PBS.png>
+![P_PBS](/Plot Figures/P_PBS.png)
 #### Shortest Remaining Time First
-<img src="Plot Figures/P_SRTF.png>
+![P_SRTF](/Plot Figures/P_SRTF.png)
 
 ### Page Replacement Algorithms
 #### First In First Out
-<img src="Plot Figures/PR_FIFO.png>
+![PR_FIFO](/Plot Figures/PR_FIFO.png)
 #### Least Recently Used
-<img src="Plot Figures/PR_LRU.png>
+![PR-LRU](/Plot Figures/PR_LRU.png)
 #### Optimal
-<img src="Plot Figures/PR_Optimal.png>
+![PR-Optimal](/Plot Figures/PR_Optimal.png)
 
 ### IO Management Algorithms
 #### First Come First Serve
-<img src="Plot Figures/IO-FIFO.png>
+![IO-FIFO](/Plot Figures/IO-FIFO.png)
 #### C-Scan
-<img src="Plot Figures/IO-CSCAN(L>.png>
+![IO-CSCANL](/Plot Figures/IO-CSCAN(/L).png)
 #### C-Look
-<img src="Plot Figures/IO-CSCAN(R>.png>
+![IO-CSCANR](/Plot Figures/IO-CSCAN(/R).png)
